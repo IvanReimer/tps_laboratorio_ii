@@ -1,0 +1,12 @@
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\ivanr\OneDrive\Escritorio\PROGRAMACION II\TP\TP1_IvanReimer\Entidades\obj\Debug\net5.0\ref\Entidades.dll
