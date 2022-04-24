@@ -23,7 +23,7 @@ namespace Entidades
             }
         }
 
-        public string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 

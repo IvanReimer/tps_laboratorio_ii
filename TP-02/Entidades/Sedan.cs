@@ -40,13 +40,13 @@ namespace Entidades
             }
         }
 
-        public string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
             sb.AppendLine("SEDAN");
-            sb.AppendLine(base.ToString());
-            sb.AppendFormat("TAMAÑO : "+ this.Tamanio);
+            sb.AppendLine(base.Mostrar());
+            sb.AppendLine("TAMAÑO : "+ this.Tamanio);
             sb.AppendLine("TIPO : " + this.tipo);
             sb.AppendLine("---------------------");
 
