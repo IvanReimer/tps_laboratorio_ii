@@ -51,9 +51,6 @@ namespace MiCalculadora2
         /// <returns>Un Double con la operación hecha. En caso que no se pueda, devuelve 0.</returns>
         private static Double Operar(String numero1 , String numero2 , String operador)
         {
-            Operando n1 = new Operando(numero1);
-            Operando n2 = new Operando(numero2);
-            return Calculadora.Operar(n1, n2, Char.Parse(operador));
 
             return Calculadora.Operar(new Operando(numero1), new Operando(numero2), char.Parse(operador)); ;
         }
