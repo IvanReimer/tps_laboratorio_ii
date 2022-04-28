@@ -40,7 +40,7 @@ namespace Entidades
             }
         }
 
-        public string Mostrar()
+        public override sealed string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
@@ -49,7 +49,6 @@ namespace Entidades
             sb.AppendLine("TAMAÑO : "+ this.Tamanio);
             sb.AppendLine("TIPO : " + this.tipo);
             sb.AppendLine("---------------------");
-
             return sb.ToString();
         }
     }
