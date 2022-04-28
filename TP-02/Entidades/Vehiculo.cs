@@ -41,7 +41,7 @@ namespace Entidades
         /// Publica todos los datos del Vehiculo.
         /// </summary>
         /// <returns></returns>
-        public virtual string Mostrar()
+        public string Mostrar()
         {
             return (String)this;
         }

@@ -9,7 +9,7 @@ namespace Entidades
     /// <summary>
     /// No podrá tener clases heredadas.
     /// </summary>
-    public class Taller
+    public sealed class Taller
     {
         List<Vehiculo> vehiculos;
         int espacioDisponible;
@@ -62,19 +62,19 @@ namespace Entidades
                     case ETipo.Ciclomotor:
                         if (v is Ciclomotor)
                         {
-                            sb.AppendLine(v.Mostrar());
+                            sb.AppendLine(((Ciclomotor)v).Mostrar());
                         }
                         break;
                     case ETipo.SUV:
                         if (v is Suv)
                         {
-                            sb.AppendLine(v.Mostrar());
+                            sb.AppendLine(((Suv)v).Mostrar());
                         }                        
                         break;
                     case ETipo.Sedan:
                         if (v is Sedan)
                         {
-                            sb.AppendLine(v.Mostrar());
+                            sb.AppendLine(((Sedan)v).Mostrar());
                         }
                         break;
                     default:

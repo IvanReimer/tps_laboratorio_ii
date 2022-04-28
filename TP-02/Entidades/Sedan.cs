@@ -40,7 +40,7 @@ namespace Entidades
             }
         }
 
-        public override string Mostrar()
+        public string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
